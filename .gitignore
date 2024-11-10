@@ -20,8 +20,8 @@ crash.log
 *.dylib
 
 # Python virtual environment (if any)
-.env
-venv/
+# .env
+# venv/
 __pycache__/
 *.py[cod]
 
